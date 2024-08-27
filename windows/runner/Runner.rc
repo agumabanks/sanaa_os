@@ -89,11 +89,11 @@ BEGIN
     BEGIN
         BLOCK "040904e4"
         BEGIN
-            VALUE "CompanyName", "com.example" "\0"
-            VALUE "FileDescription", "sanaa_os" "\0"
+            VALUE "CompanyName", "com.sanaa" "\0"
+            VALUE "FileDescription", "Sanaa Cards" "\0"
             VALUE "FileVersion", VERSION_AS_STRING "\0"
-            VALUE "InternalName", "sanaa_os" "\0"
-            VALUE "LegalCopyright", "Copyright (C) 2024 com.example. All rights reserved." "\0"
+            VALUE "InternalName", "Sanaa Cards" "\0"
+            VALUE "LegalCopyright", "Copyright (C) 2024 com.sanaa. All rights reserved." "\0"
             VALUE "OriginalFilename", "sanaa_os.exe" "\0"
             VALUE "ProductName", "sanaa_os" "\0"
             VALUE "ProductVersion", VERSION_AS_STRING "\0"
